@@ -3,3 +3,5 @@ hola git
 estamos probando el repositorio
 
 prueba con merge
+
+prueba merge segunda parte
